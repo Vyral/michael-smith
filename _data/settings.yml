@@ -15,7 +15,7 @@ client:
   title:
   license_number:
   about_markdown: |
-    Our Team specializes in all things Charleston Real Estate... Both Commercial and Residential! Welcome to the Low Country of Charleston, South Carolina. My name is Michael Smith, a REALTOR® with Berkshire Hathaway HomeServices Carolina Sun Real Estate and the Leader of the Top Charleston Agents Team, we are experts in all things Real Estate anywhere in the Charleston area.
+    Our Team specializes in all things Charleston Real Estate... Both Commercial and Residential! Welcome to the Low Country of Charleston, South Carolina. With Berkshire Hathaway HomeServices Carolina Sun Real Estate and the Leader of the Top Charleston Agents Team, we are experts in all things Real Estate anywhere in the Charleston area.
 
     We serve the areas of Mt Pleasant, Daniel Island, Wando,James Island, Johns Island, West Ashley, Hollywood, Ravenel, and the Beach communities of Isle of Palms,Sullivan’s Island, Seabook Island, Kiawah Island, Folly Beach, Wadmala Island, Edisto Island. We also sell real estate in the Summerville, Hanahan, Goose Creek, Ladson, N Charleston, and Moncks Corner areas.
   brand: Top Charleston Agents Real Estate Team
@@ -27,7 +27,7 @@ client:
   phone2:
   phone2_type:
   email: Michael@TopCharlestonAgents.com
-  url: http://Michael.TopCharlestonAgents.com
+  url: http://TopCharlestonAgents.com
 
 CTAs:
   first_CTA_text: Home Valuation
