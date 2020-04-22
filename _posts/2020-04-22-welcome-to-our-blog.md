@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Our Blog!
-date:
+date: 2020-04-22 13:49:48
 tags:
   - Real Estate
   - Market Update
