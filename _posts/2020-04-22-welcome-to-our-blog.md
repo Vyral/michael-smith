@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Welcome to Our Blog!
-date: 2020-04-22 13:49:48
+date: 2020-04-22 13:49:00
 tags:
   - Real Estate
   - Market Update
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: >-
-  My monthly messages will provide you with market updates, tips, and other
+  Our monthly messages will provide you with market updates, tips, and other
   educational information having to do with our market
 enclosure:
 pullquote:
